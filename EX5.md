@@ -1,5 +1,5 @@
 # Ex. No: 5 Creating Triggers using PL/SQL
-
+## Date: 1/9/23
 ### AIM: To create a Trigger using PL/SQL.
 
 ### Steps:
@@ -73,4 +73,4 @@ SELECT * FROM sal_log;
 ![WhatsApp Image 2023-09-26 at 22 29 21](https://github.com/DhanushPalani/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/121594640/c1caabb7-a19c-44b3-9343-e135eafc4d07)
 
 ### Result:
- The program has been implemented successfully
+ The program has been implemented successfully.
